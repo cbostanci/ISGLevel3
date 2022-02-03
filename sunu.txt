@@ -1,0 +1,16 @@
+3. Bölümümüzde kullanýcýdan döner ekipmanlarýn muhafazasý ve bakýmlarý sýrasýnda alýnmasý gereken önlemleri belirten bir senaryo gerçekleþtirmesini bekliyoruz.
+
+Önceki bölümlerde olduðu gibi kullanýcýya yeþil bir ok rehberlik ediyor.
+
+Kullanýcýnýn ilk olarak bakým yapýlacak ekipmanlarýn ana elektriðini kesmesi, sonrasýnda  ekipmanlarýn tek tek elektriklerini kesmesi gerekiyor.
+
+Elektrik izolasyonundan sonra kullanýcý gerekli uyarý tabelalarýný oklarla gösterilen yerlere yerleþtiriyor.
+
+Sonrasýnda kullanýcý döner ekipmanlara kapaklarý yerleþtiriyor.
+
+Ýþlemler tamamlandýktan sonra kullanýcý, bakým esnasýnda baþka çalýþanlarýn istenmeyen kazalardan korunmasý için, kollarý zincirleyip kilitliyor. Son aþama olarak da kilidi askýya asýp tekrardan kilitleyerek bölümü bitiriyor.
+
+3. Bölümümüzde kullanmak için oluþturduðumuz modellemeleri de bu görselde görebilirsiniz.
+
+
+
